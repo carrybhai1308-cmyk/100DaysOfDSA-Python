@@ -28,4 +28,4 @@ Each day I upload my progress screenshots/code here.
 ## 🌟 Connect With Me
 [GitHub Profile](https://github.com/carrybhai1308-cmyk)  
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/shivam-rajput-b0407632b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[X Profile] (https://x.com/ShivamR65014299?t=mK4DLf8qPGPKSdPJT5iL9w&s=08)
+[X Profile](https://x.com/ShivamR65014299?t=mK4DLf8qPGPKSdPJT5iL9w&s=08)
