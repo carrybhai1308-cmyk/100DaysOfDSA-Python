@@ -13,8 +13,9 @@ Each day I upload my progress screenshots/code here.
 - ✅ Day 4 → Uploaded progress screenshot  
 - ✅ Day 5 → Uploaded progress screenshot  
 - ✅ Day 6 → Uploaded progress screenshot
-- ✅ Day 7 → Uploaded progress screenshot    
-- 🔜 Day 8 → Coming soon...  
+- ✅ Day 7 → Uploaded progress screenshot  
+- ✅ Day 8 → Uploaded progress screenshot  
+- 🔜 Day 9 → Coming soon...  
 
 ---
 
